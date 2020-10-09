@@ -34,6 +34,19 @@ ReactDOM.render(
       span="A netflix original series"
     />
     <App img={dark} name="Dark Season-1" span="A netflix original series" />
+    <App
+      img={im1}
+      link="https://drive.google.com/drive/u/2/folders/1jHo5q3bZfqEgUvjiWoWXPsFExLoy_8n8"
+      name="Stranger Things Season-1"
+      span="A netflix original series"
+    />
+    <App
+      img={im1}
+      link="https://drive.google.com/drive/u/2/folders/1jHo5q3bZfqEgUvjiWoWXPsFExLoy_8n8"
+      name="Stranger Things Season-1"
+      span="A netflix original series"
+    />
+    <footer>All Rights Reserved To Netflix</footer>
   </React.StrictMode>,
   document.getElementById("root")
 );
